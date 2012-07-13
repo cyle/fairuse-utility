@@ -1,0 +1,17 @@
+body {
+	background: white;
+	font-size: 12pt;
+}
+
+fieldset {
+	page-break-after: always;
+	page-break-inside: avoid;
+}
+
+div#header, div#footer, fieldset#save-this {
+	display: none;
+}
+
+div#date-display {
+	display: block;
+}

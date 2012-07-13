@@ -1,0 +1,13 @@
+/* Artfully masterminded by ZURB  */
+
+div#date-display {
+	display: none;
+}
+
+table td {
+	font-size: 14px !important;
+}
+
+fieldset legend {
+	font-size: 2rem;
+}
