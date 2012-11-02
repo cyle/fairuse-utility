@@ -11,3 +11,12 @@ table td {
 fieldset legend {
 	font-size: 2rem;
 }
+
+div#header {
+	margin-top: 15px;
+}
+
+p.question {
+	font-weight: bold;
+	font-style: italic;
+}
